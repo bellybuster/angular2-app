@@ -22,9 +22,9 @@ Komponenter vi vill få med oss av respektive ramverk är
     - [ ] Imports / Requires
 ​
 ## Miljöer
-- CRM: http://cint-crm-2013.cintutv.local/main.aspx
-- CWP: http://crmweb.cintutv.se/CWP2
-- Server: Kör lokalt
+    - CRM: http://cint-crm-2013.cintutv.local/main.aspx
+    - CWP: http://crmweb.cintutv.se/CWP2
+    - Server: Kör lokalt
 ​
 ## Innehåll på sidor:
 ### Login
