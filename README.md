@@ -11,8 +11,8 @@ Bygga en webbapplikation som har stöd för CRUD och inloggning via CWP. Sidorna
 ​
 Komponenter vi vill få med oss av respektive ramverk är
 
-    - [ ] Binding
-    - [ ] Binding input
+    - [ ] One Way Binding
+    - [ ] Two Way Binding (input)
     - [ ] Loops (i vyn)
     - [ ] Events (från vyn)
     - [ ] Conditional elements
