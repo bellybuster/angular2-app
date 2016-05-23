@@ -8,5 +8,3 @@ Uppdaterar lite här med:
 - precis
 - ingen
 - ting
-
-Nu får det fan lov att fungera
