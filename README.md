@@ -33,7 +33,6 @@ Denna sida ska innehålla följande fält:
     - Användarnamn  (validera på tomt)
     - Lösenord      (validera på tomt)
     - Login-knapp
-​
     - Inloggning sker med en användare från CWP Login
 
 
