@@ -32,6 +32,7 @@ Server: Kör lokalt
 ​
 ### Login
 Denna sida ska innehålla följande fält:
+
     - Användarnamn  (validera på tomt)
     - Lösenord      (validera på tomt)
     - Login-knapp
@@ -46,6 +47,7 @@ Denna sida ska innehålla:
 ​
 ### Ett Konto
 Denna sida ska innehålla:
+
     - Information av företag med fälten:
         - Kontonamn     [name]
         - Telefon       [telephone1]
@@ -53,13 +55,14 @@ Denna sida ska innehålla:
         - Adress        [address1_line1]
         - Ort           [address1_city]
         - Postnummer    [address1_postalcode]
-​
+
     - Lista på alla anställda med Förnamn & Efternamn [firstname] [lastname]
         - Varje person ska vara klickbar till dess specifika sida
 ​
 ​
 ### Alla Kontakter
 Denna sida ska innehålla:
+
     - Klickbar lista med alla kontakter ex: (Arne Svensson - Företaget AB)
     - Val att sortera på Förnamn, Efteramn eller Företagsnamn [firtname, lastname, parentcustomerid]*
     - "Ny Kontakt"-knapp som visar en modal dialog där man får skapa en kontakt kopplad till ett konto:
@@ -69,12 +72,12 @@ Denna sida ska innehålla:
         - E-Post        [emailaddress1]         (Valid E-post)
         - Mobiltelefon  [mobilephone]
         - Företag       [parentcustomerid]      (Obligatorisk | Sökbar dropdown på Företagsnamn(Select2/Selectize/Valfritt)(Custom Element?))
-​
     - Vid skapande ska listan över kontakter uppdateras
 ​
 ​
 ### En Kontakt
-Denna sida ska innehålla
+Denna sida ska innehålla:
+
     - Information av kontakt med föregående fält
         - Företaget ska vara klickbart till företagets sida
 ​
