@@ -1,5 +1,3 @@
 # angular2-app
 
-## Nu är man igång igen!!
-
-### Jävla github
+## Nu kör vi bella!
