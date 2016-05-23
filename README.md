@@ -2,6 +2,7 @@
 ​
 ## Uppgift
 Bygga en webbapplikation som har stöd för CRUD och inloggning via CWP. Sidorna som ska finnas:
+
     - Login
     - Alla Konton(Arbetsgivare) (Landing page)
     - Alla Kontakter
@@ -9,6 +10,7 @@ Bygga en webbapplikation som har stöd för CRUD och inloggning via CWP. Sidorna
     - Ett specifikt konto
 ​
 Komponenter vi vill få med oss av respektive ramverk är:
+
     - [ ] Binding
     - [ ] Binding input
     - [ ] Loops (i vyn)
