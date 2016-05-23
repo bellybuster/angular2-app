@@ -9,7 +9,7 @@ Bygga en webbapplikation som har stöd för CRUD och inloggning via CWP. Sidorna
     - En specifik kontakt
     - Ett specifikt konto
 ​
-Komponenter vi vill få med oss av respektive ramverk är:
+Komponenter vi vill få med oss av respektive ramverk är
 
     - [ ] Binding
     - [ ] Binding input
@@ -22,11 +22,9 @@ Komponenter vi vill få med oss av respektive ramverk är:
     - [ ] Imports / Requires
 ​
 ## Miljöer
-CRM: http://cint-crm-2013.cintutv.local/main.aspx
-​
-CWP: http://crmweb.cintutv.se/CWP2
-​
-Server: Kör lokalt
+- CRM: http://cint-crm-2013.cintutv.local/main.aspx
+- CWP: http://crmweb.cintutv.se/CWP2
+- Server: Kör lokalt
 ​
 ## Innehåll på sidor:
 ### Login
@@ -38,12 +36,11 @@ Denna sida ska innehålla följande fält:
 ​
     - Inloggning sker med en användare från CWP Login
 ​
-​
 ### Alla Konton
 Denna sida ska innehålla:
+
     - Klickbar lista över alla konton som visar Kontonamn [name]
-​
-​
+​​
 ### Ett Konto
 Denna sida ska innehålla:
 
