@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-# angular2-app
-
-#bella testar
-
-## Oliver Testar!
-
-Uppdaterar lite här med:
-- precis
-- ingen
-- ting
-=======
-# Webapplikation med MV*
-
 ## Uppgift
 Bygga en webbapplikation som har stöd för CRUD och inloggning via CWP. Sidorna som ska finnas:
 
@@ -94,4 +80,3 @@ Denna sida ska innehålla:
 ## Övrigt
     - Krav markerade med `*` är EJ obligatoriska
     - Då det inte finns så mycket data hjälps vi åt att skapa det
->>>>>>> 2541e8870a452bacd34634f7b5c55c361de16fc1
