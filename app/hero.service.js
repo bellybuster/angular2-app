@@ -44,8 +44,7 @@ var HeroService = (function () {
     // Add new Hero
     HeroService.prototype.post = function (hero) {
         var headers = new http_1.Headers({
-            'Content-Type': 'application/json'
-        });
+            'Content-Type': 'application/json' });
         return this.http
             .post(this.heroesUrl, JSON.stringify(hero), { headers: headers })
             .toPromise()
